@@ -1,4 +1,5 @@
 Exploratory-Data-Analysis-EDA-in-Banking-Using-Python
+
 The purpose of this project is to master the exploratory data analysis (EDA) in banking with Pandas framework.
 
 Goals of the Project:
