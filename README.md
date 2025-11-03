@@ -1,3 +1,4 @@
+Exploratory-Data-Analysis-EDA-in-Banking-Using-Python
 The purpose of this project is to master the exploratory data analysis (EDA) in banking with Pandas framework.
 
 Goals of the Project:
@@ -18,6 +19,11 @@ During the work, the task of preliminary analysis of a positive response (term d
 In this project, we will try to give answers to a set of questions that may be relevant when analyzing banking data:
 
 What is the share of clients attracted in our source data? What are the mean values ​​of numerical features among the attracted clients? What is the average call duration for the attracted clients? What is the average age among the attracted and unmarried clients? What is the average age and call duration for different types of client employment? In addition, we will make a visual analysis in order to plan marketing banking campaigns more effectively.
+
+USED LIBRARIES:
+NUMPY
+PANDAS
+MATPLOTLIBvely.
 
 USED LIBRARIES:
 NUMPY
